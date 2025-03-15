@@ -22,8 +22,8 @@ This project is a simple chatbot application built using Chainlit and Litellm. I
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/aasherkamal216/chainlit.git
+    cd chainlit
     ```
 
 2.  **Create and Activate Virtual Environment**
